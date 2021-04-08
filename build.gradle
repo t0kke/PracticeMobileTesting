@@ -15,7 +15,7 @@ def allureVersion = "2.13.8",
     selenideVersion = "5.20.1",
     junitVersion = "5.7.1",
     aspectjVersion = "1.9.6",
-    appiumJavaClientVersion = "7.3.0"
+    appiumJavaClientVersion = "7.3.0",
     ownerVersion = "1.0.12"
 
 allure {
